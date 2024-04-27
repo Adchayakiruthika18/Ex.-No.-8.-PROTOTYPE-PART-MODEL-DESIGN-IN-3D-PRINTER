@@ -1,5 +1,4 @@
-![WhatsApp Image 2024-04-27 at 10 04 23_2c8475c7](https://github.com/Adchayakiruthika18/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147139995/4dfe3992-bbc1-40ef-9441-5db2cd0d78d0)# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
-
+### Ex. No. -PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 ### DATE:26.4.24
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
